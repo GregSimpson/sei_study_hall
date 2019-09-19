@@ -19,16 +19,16 @@ Do your best to assess which exercises will be most beneficial for you to work o
 
 #### Brand New
 
-- JavaScript 101: www.mks.io/js-101
+- [JavaScript 101](www.mks.io/js-101)
 
 #### Beginner
 
-- JavaScript Functions & Scope: www.mks.io/js-fs
-- JavaScript Mini Bootcamp: www.mks.io/js-mb
+- [JavaScript Functions & Scope](www.mks.io/js-fs)
+- [JavaScript Mini Bootcamp](www.mks.io/js-mb)
 
 #### Intermediate
 
-- Introduction to Computer Science: www.mks.io/intro-cs
-- Functional Programming in JS: www.mks.io/js-fp
-- Recursion in JavaScript: www.mks.io/js-r
+- [Introduction to Computer Science](www.mks.io/intro-cs)
+- [Functional Programming in JS](www.mks.io/js-fp)
+- [Recursion in JavaScript](www.mks.io/js-r)
 
