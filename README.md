@@ -1,4 +1,4 @@
-# Hack Reactor JavaScript Study Hall
+# [Hack Reactor](https://www.hackreactor.com): JavaScript Study Hall
 
 This study hall is an opportunity for you to work on a project or set of exercises with a group of your peers, and with the support of one of our JavaScript experts.
 
@@ -20,11 +20,13 @@ Do your best to assess which exercises will be most beneficial for you to work o
 #### Brand New
 
 - [JavaScript 101](http://www.mks.io/js-101)
+- [JavaScript 201](http://www.mks.io/js-201)
 
 #### Beginner
 
-- [JavaScript Functions & Scope](http://www.mks.io/js-fs)
-- [JavaScript Mini Bootcamp](http://www.mks.io/js-mb)
+
+- [JavaScript 301](http://www.mks.io/js-301)
+- [JavaScript 401](http://www.mks.io/js-401)
 
 #### Intermediate
 
